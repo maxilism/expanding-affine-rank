@@ -1,0 +1,7 @@
+# Local Lean build products and editor settings
+.lake/
+*.olean
+*.ilean
+*.trace
+.vscode/
+.DS_Store
